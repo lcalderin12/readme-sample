@@ -20,14 +20,13 @@ Chef-boyz-r-dope
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Licence](#Licence)
+- [Screenshots](#Screenshots)
 - [Contributors](#Contributors)
 - [Test](#Test)
 - [Repository Link](#Repositories)
-- [Questions](#Questions?)
-- [GitHub Info](#GitHub) 
+
 ## Description 
-This is an app that allows the adding, modification, and viewing of certain employees. Using Mysql we create a database that allows for the extraction and addition of employees, roles, and departments.
+A colorful recipe app that allows the user to create, search and delete a recipe. A combination of express, handlebars , nodejs and much more used to create an “MVC” structure that is compliant to both programmers in the backend and clients in the frontend. You will be redirected to different pages to search, add, and view all recipes of your liking. When you add a recipe, you must supply the name of the recipe, the main ingredient, the category (culture or type) and the content, which is the instructions of preparation. Track your recipes the right way with the `chef-boys-r-dope`  # Recipe Tracker #
 ## Installation
 
 #### NPM install the following
@@ -36,10 +35,14 @@ This is an app that allows the adding, modification, and viewing of certain empl
 ![](https://camo.githubusercontent.com/e1840b4e176feb06e47500d5d74d65041ac3f193192174097956f2bea2ceea5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d4632393131313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465)
 ![](https://img.shields.io/badge/-mysql2-red)
 ![](https://img.shields.io/badge/-sequelize-orange)
+![](https://img.shields.io/badge/-passport-blue)
+![](https://img.shields.io/badge/passport---local-yellow)
+![](https://img.shields.io/badge/express---session-lightgrey)
+![](https://img.shields.io/badge/bcrypt-js-green)
 
 ## Usage
 This is a recipe app that tracks 
-## License
+## Screenshots
 
 ## Contributors
 [MrDawit Mr. Dawit](https://github.com/MrDawit)
@@ -53,9 +56,3 @@ This is a recipe app that tracks
 ## Repositories
 - [GitHub Portfolio](https://github.com/lcalderin12)
 - [Project Repo](https://github.com/lcalderin12/Employee-Management-Systems/blob/master/start.js)
-## Questions?
-- lcalderin12
-- 
-## GitHub Profile
-![Profile Image](https://avatars2.githubusercontent.com/u/24910227?v=4)
-- Luis Calderin
