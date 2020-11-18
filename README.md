@@ -4,7 +4,8 @@
 
 # Badges
 ![](https://img.shields.io/badge/Made%20with-Javascript-green)
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![](https://img.shields.io/badge/Dependencies-Express-brightgreen)
+![](https://img.shields.io/badge/Dependencies-Handlebars-yellowgreen)
 ## Team Name
 Chef-boyz-r-dope
 
