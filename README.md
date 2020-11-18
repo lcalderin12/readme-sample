@@ -51,5 +51,5 @@ Use this is recipe app to track your favorite app'etizers, or any food of your l
 [lcalderin12 Luis Calderin](https://github.com/lcalderin12)
 
 ## Repositories
-- [GitHub Portfolio](https://github.com/lcalderin12)
-- [Project Repo](https://github.com/lcalderin12/Employee-Management-Systems/blob/master/start.js)
+- [Heroku Deployed Link](https://recipes-tracker-hanzee.herokuapp.com/)
+- [Project Repo](https://github.com/lcalderin12/Recipe-Tracker)
