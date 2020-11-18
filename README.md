@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Dependencies-Express-brightgreen)
 ![](https://img.shields.io/badge/Dependencies-Handlebars-yellowgreen)
 ## Team Name
-![](https://www.flaticon.com/svg/static/icons/svg/2921/2921822.svg)
+![](https://www.flaticon.com/svg/static/icons/svg/2921/2921822.svg=25x25)
 Chef-boyz-r-dope
 
 ## Table of contents
