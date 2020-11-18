@@ -42,6 +42,11 @@ A colorful recipe app that allows the user to create, search and delete a recipe
 ## Usage
 Use this is recipe app to track your favorite app'etizers, or any food of your liking. UI is pretty straight forward. Just follow the instructions and click away!
 ## Screenshots
+![](img/login.png)
+![](img/main.png)
+![](img/add.png)
+![](img/all.png)
+![](img/search.png)
 
 ## Contributors
 [MrDawit Mr. Dawit](https://github.com/MrDawit)
