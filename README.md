@@ -2,6 +2,7 @@
 ![](https://camo.githubusercontent.com/3b0aa009716b20018a683fea7d5babb79de77fdb40279cbb1f8e862a813900b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3233413946323f7374796c653d666c61742d737175617265266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/e61cf3e57f9e13e971a157885cbe3464a0a63a7602cd8e2464594866f14bca65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d4e504d266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/a2e06d523388c52257c599dbc3a629e0af1564a123a662a6c20fbccfdb83d15e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536c61636b2d4530313536333f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465)
+![](https://camo.githubusercontent.com/591bad6b337378a164bc0239d9259f266f2ed01d3aa3006c68bef1336731d051/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5f2d4769742d3239326533333f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d666666)
 
 # Recipe Tracker
 <img src="https://www.flaticon.com/svg/static/icons/svg/2921/2921822.svg" width="200" height="400" />
@@ -29,13 +30,24 @@ Chef-boyz-r-dope
 ## Description 
 This is an app that allows the adding, modification, and viewing of certain employees. Using Mysql we create a database that allows for the extraction and addition of employees, roles, and departments.
 ## Installation
+
+#### NPM install the following
 ![](https://img.shields.io/badge/Dependencies-Express-brightgreen)
-![](https://img.shields.io/badge/Dependencies-Handlebars-yellowgreen)
+![](https://img.shields.io/badge/-Handlebars-blue)
+![](https://camo.githubusercontent.com/e1840b4e176feb06e47500d5d74d65041ac3f193192174097956f2bea2ceea5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d4632393131313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465)
+![](https://img.shields.io/badge/-mysql2-red)
+![](https://img.shields.io/badge/-sequelize-orange)
+
 ## Usage
 This is a recipe app that tracks 
 ## License
-BSD
+
 ## Contributors
+[MrDawit Mr. Dawit](https://github.com/MrDawit)
+
+[0216johnsoneric Eric](https://github.com/0216johnsoneric)
+
+[lcalderin12 Luis Calderin](https://github.com/lcalderin12)
 
 ## Test
 
