@@ -45,8 +45,13 @@ Use this app to organize, lend tools and more...
 
 ## Contributors
 [MrDawit Shalom Dawit](https://github.com/MrDawit)
+<br>
 [Danielli Franquim](https://github.com/Elli360)
+<br>
+
 [Troy](https://github.com/troylochner)
+<br>
+
 [lcalderin12 Luis Calderin](https://github.com/lcalderin12)
 
 ## Repositories
